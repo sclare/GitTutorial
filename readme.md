@@ -6,8 +6,10 @@
 - git commit
 - git push origin master
 
+- git checkout <branch_name>
+- git remote -v
+
 ## Change Log
 Made a change to the master
 
-Now creating a branch
-Branch name is AddFiles
+Removed the branch AddFiles
