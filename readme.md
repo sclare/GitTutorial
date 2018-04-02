@@ -2,6 +2,6 @@
 ## List of command
 - git status
 - git pull
-- git add
+- git add .
 - git commit
 - git git push origin master
