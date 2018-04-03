@@ -1,2 +1,2 @@
 ## File2 resource
-test1 text
+test1 text updated
