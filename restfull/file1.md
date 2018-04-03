@@ -5,12 +5,14 @@
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
          
-- bullet 2
+- bullet 2 
 
 ```javascript
 Here is some text
 ```
 1. list item1  
+
+<kbd>⇥</kbd>
 
 Table  
 
@@ -20,7 +22,17 @@ Table
 | 1b  |     |     |     |     |
 | 2b  |     |     |     |     |
 
-- - - - 
+Table  
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+- - - -
+
+Emoji
+:relaxed:
 
 Table  
 
@@ -39,6 +51,16 @@ First Header       | Second Header
 -------------      | -------------
 Content Cell       | Content Cell
 Content Cell       | Content Cell
+
+Table
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| Col 4 is      | zebra?        |   $20 |
+
 
  <kbd>⇧⌘F</kbd>
 
